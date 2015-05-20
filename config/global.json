@@ -1,0 +1,8 @@
+{
+    "applicationName" : "senz.sdk.js",
+    "applicationId": "p43thw40v9kfukzw6ba0z7l5n3r4noodmny38iuvjky8lbui",
+    "applicationKey": "08rtdrs2vwr1zct0suta1mwrcer3fltzy7o4ooawvx0jyhax",
+    "global": {
+        "avVersion": "0.3.1"
+    }
+}

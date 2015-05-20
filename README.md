@@ -1,1 +1,1 @@
-# senz.sdk.leancloud.angular.js
+Cloud code project for senz.sdk.js. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
